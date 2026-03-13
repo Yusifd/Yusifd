@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusif</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">Computer Science Professional dedicated to the evolution of Intelligent Systems. Currently pursuing an MSc in Artificial Intelligence, my goal is to integrate advanced machine learning capabilities into modern web environments.
+My background in Full-stack Development allows me to not only build ML models but also deploy them into fully functional, user-centric applications. From designing secure authentication systems to developing unsupervised learning models and recommenders, I focus on creating software that is both robust and smart.
+Current Focus: Deepening my knowledge in Reinforcement Learning and TensorFlow to solve complex real-world optimization problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusifd&label=Profile%20views&color=0e75b6&style=flat" alt="yusifd" /> </p>
 
