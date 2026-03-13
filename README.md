@@ -5,8 +5,6 @@ Current Focus: Deepening my knowledge in Reinforcement Learning and TensorFlow t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusifd&label=Profile%20views&color=0e75b6&style=flat" alt="yusifd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusifd"/></a> </p>
-
 - 📫 How to reach me **yusifdavidov39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
